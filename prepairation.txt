@@ -1,0 +1,6 @@
+download app
+- anaconda
+- vscode
+- r
+- powerbi
+- visual studio retributable 2019 x64 => mysql => MySQL Workbench (for UI)

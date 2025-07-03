@@ -1,0 +1,13 @@
+- outlook acc, 
+mail: ntldiep.autodothanh@outlook.com
+pass: Autodothanh123user or user123 
+
+- gmail acc
+mail: ntldiep.autodothanh@gmail.com
+password: Autodothanh123user
+
+- mysql root password: Autodothanh123
+
+- mysql username credentials
+user name: AutoDoThanh_LD
+password: Autodothanh123
